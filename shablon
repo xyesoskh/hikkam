@@ -1,3 +1,9 @@
+<head>
+    <meta charset="UTF-8">
+</head>
+
+{
+    Bulltext= [
 "<emoji document_id=5267500801240092311>⭐</emoji> <b>ПИШУ БОТОВ/МОДУЛИ НА ЮЗ БОТА </b> <emoji document_id=5267500801240092311>⭐</emoji><b>
 
 </b><emoji document_id=5373174941095050893>💸</emoji>  <b>ЦЕНА ЗАВИСИТ ОТ СЛОЖНОСТИ РАБОТЫ </b><emoji document_id=5373174941095050893>💸</emoji>
@@ -20,3 +26,4 @@
 </b><emoji document_id=5371003817947046014>😊</emoji>  <emoji document_id=5463054218459884779>🌡</emoji>+ ОТЗЫВОВ <b> </b><emoji document_id=5371003817947046014>😊</emoji><b>
 </b><emoji document_id=5285184156555306745>💌</emoji><b>
 </b><pre>Сотни довольных клиентовуже доверились мне!</pre>"
+]
